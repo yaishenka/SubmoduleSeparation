@@ -1,0 +1,3 @@
+[submodule "ContribTensorflow"]
+	path = ContribTensorflow
+	url = https://github.com/yaishenka/ContribTensorflow
